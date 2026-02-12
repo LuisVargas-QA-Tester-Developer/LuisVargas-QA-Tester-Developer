@@ -1,3 +1,5 @@
+![Banner](https://github.com/LuisVargas-QA-Tester-Developer/LuisVargas-QA-Tester-Developer/blob/main/Banner%20github.png?raw=true)
+
 ## Hi there 👋
 
 <!-- This is a sample comment and template area for your README. Feel free to modify it as needed. -->
