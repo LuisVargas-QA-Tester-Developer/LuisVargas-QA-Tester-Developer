@@ -1,127 +1,117 @@
   
   ![Banner](https://github.com/LuisVargas-QA-Tester-Developer/LuisVargas-QA-Tester-Developer/blob/main/Banner%20github.png?raw=true)
   
-  # 👋 Welcome to My GitHub Profile
-  
-  <h3>Full Stack Developer | QA Tester | Continuous Learner</h3>
-  
-  <p>
-    <strong>Building Quality Code Through Testing & Development Excellence</strong>
-  </p>
-  
-  [![GitHub followers](https://img.shields.io/github/followers/LuisVargas-QA-Tester-Developer?style=social)](https://github.com/LuisVargas-QA-Tester-Developer)
-  
-</div>
+  # 🚀 Luis Alfredo Vargas Muriel - Desarrollador & QA Tester en Transición profesional.
+
+¡**Bienvenido a mi perfil**! Soy un profesional en transición hacia el desarrollo de software y QA Testing, combinando mi experiencia en ventas con sólida formación técnica y habilidades prácticas en projects reales como QA tester.
+
+## 💡 Sobre Mí
+
+Mi verdadera fortaleza radica en mi entusiasmo por aprender de los mejores profesionales, colaborar con equipos excepcionales y contribuir a la entrega de soluciones de calidad. A pesar de ser nuevo en proyectos reales, mi mentalidad orientada al aprendizaje continuo y mi compromiso con la excelencia me impulsan a superar mis límites.
+
+## 💻 Stack Tecnológico - Desarrollo de software
+
+**Lenguajes y Frameworks en exploración:** He trabajado con las siguientes tecnologías en proyectos de grado y prácticas profesionales, tanto en desarrollo backend como frontend. Aunque no las domino completamente, tengo experiencia práctica sólida y continúo mejorando mis habilidades.
+
+### 🎨 Frontend
+- ⚛️ React.js
+- 📄 HTML5
+- 🎨 CSS
+- 🅱️ Bootstrap CSS
+- 🌊 Tailwind CSS
+- 📝 JavaScript
+
+### 🔧 Backend
+- 🔧 Laravel
+- 🐘 PHP
+- 🟢 Node.js
+- 🔷 .Net Core
+
+### 🗄️ Bases de Datos
+- 🗄️ SQL
+- 🐬 MySQL
+- 🔵 SQL Server
+- 🍃 MongoDB
 
 ---
 
-<details open>
-  <summary><h2>📖 Table of Contents</h2></summary>
-  
-  - [About Me](#-about-me)
-  - [Core Values](#-core-values)
-  - [Technical Skills](#-technical-skills)
-  - [What I'm Ready To Do](#-what-im-ready-to-do)
-  - [Get In Touch](#-get-in-touch)
-  
-</details>
-
 ---
 
-## 👨‍💻 About Me
 
-<div align="left">
+## 🧪 Habilidades QA Testing
 
-I'm **Luis Vargas**, an enthusiastic and adaptable developer and QA tester committed to creating high-quality software solutions through continuous learning and collaborative teamwork.
+### Herramientas & Tecnologías:
+- **Postman** - Testing de APIs
+- **Dev Tools** - Debugging y análisis
+- **JIRA** - Gestión y reporte de errores
+- **Android Studio** - Testing de aplicaciones móviles
 
-Although I'm early in my professional journey, I bring:
+### Metodologías & Técnicas:
+- ✅ Casos de Prueba
+- ✅ Pruebas de Humo
+- ✅ Pruebas Manuales
+- ✅ Clases de Equivalencia
+- ✅ Listas de Comprobación
+- ✅ Reporte de Errores con JIRA
+- ✅ Testing en Aplicaciones Móviles
 
-- 🚀 **Passionate Learner** - Constantly acquiring new skills
-- 🔄 **Highly Adaptable** - Quick to learn new technologies
-- 👥 **Team Collaborator** - Thriving in collaborative environments
-- 💡 **Creative Problem Solver** - Developing innovative solutions
-- 📊 **Quality-Focused** - Committed to delivering reliable code
+## 🎯 Competencias Transversales
 
-</div>
+- 🤝 Comunicación Efectiva
+- 👥 Trabajo Colaborativo
+- 🔄 Metodologías Ágile
+- 🔍 Análisis Crítico
+- 📚 Orientación al Aprendizaje Continuo
+- 🎯 Atención al Detalle
 
----
+## 📂 Mi Enfoque
 
-## 🎯 Core Values
+Como profesional en transición, busco:
+- Consolidarme en **QA Testing** con excelencia técnica
+- Desarrollar mis habilidades en **desarrollo de software**
+- Contribuir a equipos de desarrollo con pasión y dedicación
+- Llevar mis habilidades de comunicación hacia la excelencia técnica
 
-<div align="center">
+## 🌱 Formación
 
-| Value | Description |
-|-------|-------------|
-| 📚 **Learning** | Passionate about mastering new technologies |
-| 🔄 **Adaptability** | Quick to adjust to changing requirements |
-| 👥 **Collaboration** | Thriving in team environments |
-| 💡 **Innovation** | Developing creative solutions |
+- Formación técnica en **Desarrollo de Software**
+- Especialización en **QA Testing**
+- Experiencia práctica con tecnologías modernas
+- Comprometido con el aprendizaje continuo
 
-</div>
+## 💪 Lo Que Me Impulsa
 
----
-
-## 💼 Technical Skills
-
-<div align="left">
-
-### Frontend Development
-- **Languages:** HTML5, CSS3, JavaScript,
-- **Frameworks:** Bootstrap css, tailwind css
-- **Skills:** Responsive Design, Component Development
-
-### Backend Development
-- **Languages:** Node.js, C#, JavaScript, Php, SQL, 
-- **Frameworks:** Express.js, React.js, .Net core, Laravel
-- **Databases:** MongoDB, PostgreSQL, MySQL, Sql Server. 
-- **APIs:** REST APIs.
-
-### QA & Testing
-- **Automation Tools:** Selenium, Cypress, Dev tools, Postman
-- **Testing Types:** Unit, Integration, manual tests, test cases, bugs report, Performance Testing
-- **Methodologies:** TDD, BDD
-
-### DevOps & Tools
-- **Version Control:** Git, GitHub
-- **CI/CD:** GitHub Actions
-- **Containerization:** Docker
-- **Cloud:** AWS
-
-</div>
-
----
+> *"A pesar de ser nuevo en proyectos reales, mi verdadera fortaleza radica en mi entusiasmo por aprender de los mejores profesionales, colaborar con equipos excepcionales y contribuir a la entrega de soluciones de alta calidad."*
 
 ## 🚀 What I'm Ready To Do
 
 <div>
 
-✅ Contribute to real-world projects in collaborative teams
-✅ Learn and master new technologies and frameworks
-✅ Write clean, tested, and maintainable code
-✅ Participate in code reviews and pair programming sessions
-✅ Take ownership of tasks and deliver quality solutions
-✅ Streamline processes through innovative problem-solving
+✅ Contribuir a proyectos reales en equipos colaborativos
+✅ Aprender y dominar nuevas tecnologías y frameworks
+✅ Escribir código limpio, probado y mantenible
+✅ Participar en revisiones de código y sesiones de pair programming
+✅ Asumir responsabilidad en tareas y entregar soluciones de calidad
+✅ Optimizar procesos mediante resolución innovadora de problemas
 
 </div>
+
+## 🔗 Conecta Conmigo
+
+- 📧 [Email](luisalfredovargasmuriel@gmail.com)
+- 📲 [Teléfono](+57 304 353 9991)
+- 💼 [LinkedIn](https://www.linkedin.com/in/luis-vargas-qa-tester-web-developer/)
+- 🐙 [Github](https://github.com/LuisVargas-QA-Tester-Developer)
 
 ---
 
-## 📬 Get In Touch
+**Siempre disponible para colaborar, crecer profesionalmente y asumir nuevos desafíos.** 🚀
 
-<div align="center">
+---
+**Gracias por ver mi perfil! Sientase libre para exporar mis repositorios.** 🙌
+---
 
-**Let's connect and build something great together!**
 
-[Email](luisalfredovargasmuriel@gmail.com) | [LinkedIn](https://www.linkedin.com/in/luis-vargas-qa-tester-web-developer/)
-
-<br>
-
-### 🎓 Motto
-> "Continuous Learning, Collaborative Growth, Quality-First Development"
-
-**Thank you for visiting! Feel free to explore my repositories.** 🙌
-
-</div>
 
 
 
