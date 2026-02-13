@@ -3,7 +3,7 @@
   
   # 🚀 Luis Alfredo Vargas Muriel - Desarrollador & QA Tester en Transición profesional.
 
-¡**Bienvenido a mi perfil**! Soy un profesional en transición hacia el desarrollo de software y QA Testing, combinando mi experiencia en ventas con sólida formación técnica y habilidades prácticas en projects reales como QA tester.
+¡**Bienvenido a mi perfil**! Soy un profesional en transición hacia el desarrollo de software y QA Testing, combinando mi experiencia de más de 7 años en ventas con sólida formación tecnológica en desarrollo de software y habilidades prácticas en projects reales como QA tester.
 
 ## 💡 Sobre Mí
 
